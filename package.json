@@ -1,0 +1,28 @@
+{
+  "name": "filenames-to-json",
+  "version": "1.0.0",
+  "description": "Creates a JSON file with all filenames listed in arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqardi-opensource-projects/filenames-to-json.git"
+  },
+  "keywords": [
+    "array",
+    "list",
+    "file",
+    "filename",
+    "json",
+    "object",
+    "directory"
+  ],
+  "author": "Bqardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bqardi-opensource-projects/filenames-to-json/issues"
+  },
+  "homepage": "https://github.com/bqardi-opensource-projects/filenames-to-json#readme"
+}
