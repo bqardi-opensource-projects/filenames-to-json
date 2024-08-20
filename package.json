@@ -1,8 +1,9 @@
 {
   "name": "filenames-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a JSON file with all filenames listed in arrays.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
